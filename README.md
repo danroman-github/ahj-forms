@@ -16,4 +16,4 @@
 
 Не забудьте написать авто-тест на взаимодействие с DOM на базе Puppeteer или JSDOM (на ваш выбор).
 
-[![NodeJS with Webpack](https://github.com/danroman-github/ahj-events/actions/workflows/webpack.yml/badge.svg)](https://github.com/danroman-github/ahj-events/actions/workflows/webpack.yml)
+[![Netology AHJ](https://github.com/danroman-github/ahj-forms/actions/workflows/web.yml/badge.svg)](https://github.com/danroman-github/ahj-forms/actions/workflows/web.yml)
