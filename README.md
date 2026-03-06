@@ -10,7 +10,7 @@
 
 Вот так должен выглядеть виджет в целом, для упрощения будем считать, что виджет всегда должен показываться сверху.
 
-![](https://github.com/danroman-github/ahj-forms/tree/main/src/img/Popovers.png)
+![](https://github.com/danroman-github/ahj-forms/blob/main/src/img/Popovers.png)
 
 У popover'а обязательно должно быть название и текст. Центрироваться он обязательно должен по горизонтали относительно элемента, который вызвал popover'а.
 
